@@ -1,0 +1,11 @@
+{
+	"name": "laborci/valentine-date",
+	"require": {
+		"php": ">=7.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Valentine\\": "src/"
+		}
+	}
+}
